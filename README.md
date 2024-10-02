@@ -1,4 +1,4 @@
-Self taught insterested in CyberSecurity field and actively researching about it and learning every day.  
+Self-taught insterested in CyberSecurity field and actively researching about it and learning every day.  
   
 **insterests**: Red Teaming, development of PoCs, low level programming.  
   
