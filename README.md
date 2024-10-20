@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**oMaster120o/oMaster120o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Self-taught insterested in CyberSecurity field and actively researching about it and learning every day.  
+  
+**insterests**: Red Teaming, development of PoCs, low level programming.  
+  
+**Programming languages**: Python and C.  
+  
+> [!Tip]  
+> **Contact**: the best/fastest way to contact me is via Discord, feel free to send me a  message my nick name there is: **master120.** (dot included).  
+> Or if you prefer send me an email: **5K1oQ(.rKSF/U;+\?yhe&^UF?/w]A'!c=//uAO)HV&M+C9Wm** (encoded 3 times in a row using Base92).
+> 
