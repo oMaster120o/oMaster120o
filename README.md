@@ -1,4 +1,4 @@
-Self-taught programming insterested in CyberSecurity field.  
+Self-taught programmer insterested in Cyber Security field.  
   
 **insterests**: Red Teaming, low level programming, Binex.  
   
