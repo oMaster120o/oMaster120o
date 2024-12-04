@@ -11,3 +11,6 @@ Self-taught programmer insterested in Cyber Security field.
 >    
 > (encoded 3 times in a row using Base92).  
 > 
+  
+  
+[Assembly Tiny Reference](https://gist.github.com/oMaster120o/a4d8409df50a865337e4ca19a6c30d50)
